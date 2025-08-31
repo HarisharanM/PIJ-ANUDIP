@@ -1,6 +1,6 @@
 package com.Hari.anu;
 
-public class Assignment2 {
+public class Employee {
     protected int id;
     protected int age;
     protected String name;
@@ -17,4 +17,5 @@ public class Assignment2 {
         System.out.println("Successfully started");
     }
 }
+
 
