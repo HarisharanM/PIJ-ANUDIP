@@ -1,6 +1,6 @@
 package com.Hari.anu;
 
-public class Assignment4 {
+public class Rectangle {
     double width;
     double height;
 
@@ -14,4 +14,5 @@ public class Assignment4 {
         System.out.println(Color.BLUE);
     }
 }
+
 
