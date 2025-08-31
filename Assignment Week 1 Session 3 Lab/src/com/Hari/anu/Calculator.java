@@ -13,13 +13,13 @@ public class Calculator {
     }
 
     // Overloaded method to add three integers
-    public int add(int a, int b, int c) {
-        return a + b + c;
+    public int add(int z, int k, int i) {
+        return z + k + i;
     }
 
     // Overloaded method to add two doubles
-    public double add(double a, double b) {
-        return a + b;
+    public double add(double t, double r) {
+        return t + r;
     }
     
 public void acceptNumbersAndShowResults() {
