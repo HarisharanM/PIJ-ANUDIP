@@ -1,6 +1,6 @@
 package com.Hari.anu;
 
-public class Assignment1 {
+public class Student {
     private String studentName;
     private String collegeName;
     private int studentID;
@@ -9,4 +9,5 @@ public class Assignment1 {
         System.out.println("Successful");
     }
 }
+
 
